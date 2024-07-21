@@ -40,5 +40,8 @@ Open your web browser and go to http://localhost/transport/ to access the applic
 Admin Access
 
 Username: admin
+
 Password: admin
+
+
 This Bus Ticket Booking System aims to streamline the process of bus ticket booking for users, providing a seamless experience from searching for available buses to making secure bookings.
